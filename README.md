@@ -1,11 +1,5 @@
 # Elbi Donation System Project: ElGives
 
-Group Details
-- Ray Meshack D. Ragas
-- Zenn Louie C. Reyes
-- Jan Andrew Señires
-- CMSC 23 - UV-2L
-
 <b>Elbi Donation System Project: ElGives</b>
 
 <b> Program description: </b>
@@ -42,3 +36,11 @@ To sign in your organization account, simply input your correct organization acc
 - Sign in as Admin
 
 To sign in as admin, simply input your correct Admin account email and password in the Sign In page. After logging in, you will redirect to Admin's Homepage.  In Admin's Homepage, a list of pending organizations will be displayed in the screen. To approve an organization sign up, click the three dot icon on the right most part of the tile. View the organization's proof of legitimacy by clicking the image name in the modal. Finally, approve the organization sign up by tapping the approve button. To view all donors and their details, select the Donors tab in the side panel drawer, and then clicking the corresponding tile of a donor to view  their profile. On the other hand, the list of approved donations and their corresponding donations can be viewed by tapping the Organizations tab instead in the drawer. 
+
+
+
+Group Details
+- Ray Meshack D. Ragas
+- Zenn Louie C. Reyes
+- Jan Andrew Señires
+- CMSC 23 - UV-2L
