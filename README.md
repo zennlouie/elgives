@@ -1,4 +1,4 @@
-# group3-project
+# Elbi Donation System Project: ElGives
 
 Group Details
 - Ray Meshack D. Ragas
