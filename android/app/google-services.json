@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333528619614",
+    "project_id": "cmsc23-group3-project",
+    "storage_bucket": "cmsc23-group3-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333528619614:android:72279661a8348b1973b2cf",
+        "android_client_info": {
+          "package_name": "com.example.week9_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMe3XMpylYGm-a3XKAtpOyoC-8ZBJc2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
